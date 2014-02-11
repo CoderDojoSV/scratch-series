@@ -8,7 +8,9 @@ We will be covering the concepts that go beyond the basics of costumes, movement
 Week 1 focus: Messages, using a seasonally adjusted pong variant
 starter: http://scratch.mit.edu/projects/17731969
 example: http://scratch.mit.edu/projects/13500919
-(not in slides--bonus) Parallax view: http://scratch.mit.edu/projects/17398388
+(not in slides--bonus) 
+Parallax view: http://scratch.mit.edu/projects/17398388
+Flappy Bird: http://scratch.mit.edu/projects/16743509
 
 Week 2 focus: custom-defined Code Blocks, using an app that models the 'unplugged' activity
 (work in progress: http://scratch.mit.edu/projects/17624370/ 
