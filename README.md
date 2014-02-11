@@ -5,20 +5,25 @@ Presentation materials for the 6-week series for Scratch
 
 We will be covering the concepts that go beyond the basics of costumes, movement, and easy conditionals.
 
-Week 1 focus: Messages, using a seasonally adjusted pong variant
-starter: http://scratch.mit.edu/projects/17731969
-example: http://scratch.mit.edu/projects/13500919
-(not in slides--bonus) 
-Parallax view: http://scratch.mit.edu/projects/17398388
-Flappy Bird: http://scratch.mit.edu/projects/16743509
 
-Week 2 focus: custom-defined Code Blocks, using an app that models the 'unplugged' activity
-(work in progress: http://scratch.mit.edu/projects/17624370/ 
+Week 1 focus: Messages, using a seasonally adjusted pong variant<br>
+presentation [here](./Beyond+Scratch+Basics+Week1.pptx)  handout [here](./handout-week1.pdf)<br>
+starter: http://scratch.mit.edu/projects/17731969<br>
+example: http://scratch.mit.edu/projects/13500919<br>
+(not in slides--bonus material) <br>
+Parallax view: http://scratch.mit.edu/projects/17398388<br>
+Flappy Bird: http://scratch.mit.edu/projects/16743509<br>
+
+
+Week 2 focus: custom-defined Code Blocks, using an app that models the 'unplugged' activity<br>
+(work in progress: http://scratch.mit.edu/projects/17624370/ <br>
 maybe finish with the lego model creator: http://scratch.mit.edu/projects/17192530 )
 
-Week 3 focus: Clones
-starter: http://scratch.mit.edu/projects/17772258
-example: http://scratch.mit.edu/projects/17450708
+
+Week 3 focus: Clones<br>
+presentation [here](./Beyond+Scratch+Basics+Week3.pptx)
+starter: http://scratch.mit.edu/projects/17772258<br>
+example: http://scratch.mit.edu/projects/17450708<br>
 
 Week 4: focus: operators (logical and mathematical)
 Maybe spirograph:
