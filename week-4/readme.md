@@ -1,7 +1,9 @@
-DoderDojo Scratch Series week 4
+CoderDojo Scratch Series week 4
 ========================
 
-I appreciate your feedback from the survey!
+I appreciate your feedback from the survey!  Let's do it again!
+I would love continued feedback: http://goo.gl/tcZRB3
+
 A fairly common thread in your responses was a wish to explore more platform games.<br>
 I think we may do this over the next couple of weeks.
 
@@ -15,7 +17,8 @@ http://scratch.mit.edu/projects/17398388<br>
 - talk about 'touching' fail<br>
 - talk about logical operation OR 
 - talk about logical operation (<= === !(>) )
-- talk about DeMorgan's (  A&&B === !(A!!B)
+- talk about DeMorgan's Law (  "a OR b" is the same as "not 'a AND b'"
+http://en.wikipedia.org/wiki/De_Morgan's_laws
 
 3) adding in boost-by-keys<br>
 http://scratch.mit.edu/projects/18674756<br>
