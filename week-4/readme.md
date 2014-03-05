@@ -1,24 +1,42 @@
 CoderDojo Scratch Series week 4
 ========================
 
-I appreciate your feedback from the survey!  Let's do it again!
+Ice Breaker: Spend it All!  http://goo.gl/kK0XT8
+Want a 6-sided die to roll?  http://scratch.mit.edu/projects/18787185/
+
+I appreciate your feedback from the survey!  Let's do it again!<br>
 I would love continued feedback: http://goo.gl/tcZRB3
 
 A fairly common thread in your responses was a wish to explore more platform games.<br>
-I think we may do this over the next couple of weeks.
+We will do this over the next couple of weeks.
 
 Some things that come to mind for an enjoyable platform game are 
 1) an interesting background.  So, I picked a parallax-view scrolling background I liked<br>
-not http://scratch.mit.edu/projects/17398388  Todo: find original.
+look in http://scratch.mit.edu/projects/17398388  
+- talk about layers 
+- talk about move vs slide 
 
-2) A platform.  I went a little crazy and made a bouncing platform.  <br>
+Explore: 
++ add a 3rd thing to slide by. 
++ change back layer or mid layer to different art  (Mardi gras? St Patricks?)
+suggest: search for tile graphic 
+
+2) A platform.  I went a little crazy and made a bouncing platform.<br>
 http://scratch.mit.edu/projects/17398388<br>
-- talk a bit about 'gravity'<br>
+- talk a bit about 'gravity'<br> 
 - talk about 'touching' fail<br>
 - talk about logical operation OR 
 - talk about logical operation (<= === !(>) )
 - talk about DeMorgan's Law (  "a OR b" is the same as "not 'a AND b'"
 http://en.wikipedia.org/wiki/De_Morgan's_laws
+
+Explore:
++ change constants
++ advanced- try touching vs y test (and get ball rotation back)
+
+2a) challenge
+change what the ball bounces on (rounded paddle and introduce "angle of reflection??")
+
 
 3) adding in boost-by-keys<br>
 http://scratch.mit.edu/projects/18674756<br>
@@ -43,3 +61,7 @@ http://scratch.mit.edu/projects/18706424<br>
 - add in a super coin
 - add in a 'slow the march down'
 - add in the ability to move forward and back a bit
+
+
+cool links:
+http://wiki.scratch.mit.edu/wiki/List_of_Block_Workarounds
