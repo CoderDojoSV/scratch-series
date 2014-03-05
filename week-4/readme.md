@@ -1,19 +1,22 @@
-CoderDojo Scratch Series week 4 (and beyond)
-========================
+#Week 4 and 5 of Scratch Beyond the Basics
 
 ##Ice Breaker: 
 Spend it All!  http://goo.gl/kK0XT8 <br>
 Want a 6-sided die to roll?  http://scratch.mit.edu/projects/18787185/
 
-I appreciate your feedback from the survey!  Let's do it again!<br>
-I would love continued feedback: http://goo.gl/tcZRB3
 
 # Tonight
+I appreciate your feedback from the survey!  Let's do it again!<br>
+I love continued feedback: http://goo.gl/tcZRB3
+###You wanted a platform-style game
+
+
 ## no PowerPoint!
 I'm trying to keep Scratch up in another window all the time
 
 ## Writing a platform game<br>
-I added evolutionary steps.  Look at scratch.mit.edu/studios/353977<br>
+I added evolutionary steps.  Look at <br>
+http://scratch.mit.edu/studios/353977<br>
 A fairly common thread in your responses was a wish to explore more platform games.<br>
 We will do this over the next couple of weeks.
 
