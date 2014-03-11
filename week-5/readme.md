@@ -36,8 +36,9 @@ I added in "Levels" so the game got harder.<br>
 Health can keep the game going longer, because it's now harder<br>
 http://scratch.mit.edu/projects/18734141
 
-`Coding time!<br>
-5 minute challenge: What would you do to finish up 'Game Over'`
+|Coding time!||
+|--|
+|5 minute challenge||What would you do to finish up 'Game Over'|
 
 ####6. St. Patricks Day<br>
 Make the art more St Patricks Day-like.<br>
@@ -46,29 +47,33 @@ http://scratch.mit.edu/projects/19057264<br>
 
 `Topic: sound tools.  play, import, edit.`
 
-`Coding Time!<br>
-Easy: Change the star to play Twinkle Twinkle Little Star (CCGGAAG)<br>
-Medium: Add in an obstacle to avoid.  <br>https://www.google.com/search?q=clipart+bomb<br>
-Challenge: Add in a prize that slows the game down`
+|Challenge|:Level|
+|-|
+|Change the star to play Twinkle Twinkle Little Star (CCGGAAG)|Easy|
+|Add in an obstacle to avoid.  <br>https://www.google.com/search?q=clipart+bomb |Medium|
+|Add in a prize that slows the game down|Medium|
 
 ####7. A better way to make a platform.
-http://scratch.mit.edu/projects/19015667
+http://scratch.mit.edu/projects/19015667<br>
+This very readable project implements the ability to<br>
+roll up-hill without having to jump.
 
 ####8. Improve the score system
 That orange box is ugly.  We can do better<br>
 http://scratch.mit.edu/projects/19060278
-Talk about math operations
+`Topic:math operations`
 
 
 ####9. Refactoring
-That score logic started to get spread out too much.  I fixed that.
+That score logic started to get spread out too much.  I fixed that.<br>
 The level logic is still spread out too much.  Fix that.<br>
 http://scratch.mit.edu/projects/19073212
 
+
 ####10. future suggestions: 
-- add in platforms
+- add in platforms to jump on
 - add in coin generation better than 'random' (patterns like lines or arcs)
-- add in a 'slow the march down'
+- add in a 'slow the scrolling down'
 - add in the ability to move forward and back a bit
 
 ##Feedback: 
