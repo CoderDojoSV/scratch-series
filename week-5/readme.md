@@ -1,7 +1,7 @@
-CoderDojo Scratch Series week 5
+CoderDojo Scratch Series Week 5
 ========================
 
-##Ice Breaker: Dogde 'Em
+##Ice Breaker: Dodge 'Em
 https://github.com/CoderDojoSV/scratch-series/blob/master/week-5/DodgeEm.pdf
 
 #Tonight
@@ -89,5 +89,7 @@ I would love continued feedback: http://goo.gl/tcZRB3
 
 The Improved Platformer keeps improving!  http://scratch.mit.edu/projects/12239450/ <br>
 He turned it into a Good game: "scratchnapped"  http://scratch.mit.edu/projects/10118230/ <br>
+
+Celtic Knots: http://scratch.mit.edu/projects/817359/
 
 When I "want the scratch language to do something" but it doesn't, I look here before searching. http://wiki.scratch.mit.edu/wiki/List_of_Block_Workarounds
