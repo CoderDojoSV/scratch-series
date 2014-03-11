@@ -27,7 +27,7 @@ Add in things to collide with.  Coins, for one.<br> http://scratch.mit.edu/proje
 ##Where we're going
 We just started with prizes last week, and we'll add more to the game now<br>
 
-`Topic: Quick refresher on graphic files`
+`Topic: Quick refresher on graphic files` <br>
 `Topic: 3d art: Want to know how I made the coin?`
  
 ###5. More Prizes, More Levels
@@ -43,11 +43,11 @@ http://scratch.mit.edu/projects/18734141
 |What would you do to finish up 'Game Over'|5 minute challenge!
 
 ####6. St. Patrick's Day<br>
-Make the art more St Patricks Day-like.<br>
-A working Health system + game over is implemented in
+Make the art more St. Patrick's Day-like.<br>
+A working Health system AND game over logic is implemented in
 http://scratch.mit.edu/projects/19057264<br>
 
-`Topic: sound tools.  play, import, edit.`
+`Topic: sound tools:  importing and editing, playing by code`
 
 |Coding Challenge|Difficulty|
 |---|---|
@@ -58,13 +58,13 @@ http://scratch.mit.edu/projects/19057264<br>
 ####7. A better way to make a platform engine
 http://scratch.mit.edu/projects/19015667<br>
 This very readable project implements the ability to<br>
-roll up-hill without having to jump.
+roll up-hill without having to jump.<br>
 `Topic: look in [the project](http://scratch.mit.edu/projects/19015667)`
 
 ####8. Improve the score system
-That orange box is ugly.  We can do better<br>
-We need to learn about the 'mod' operator to find 'remainders'
-http://scratch.mit.edu/projects/19060278
+That orange box for data is ugly!  We can do better!!<br>
+We need to learn about the 'mod' operator <br>
+http://scratch.mit.edu/projects/19060278 <br>
 `Topic:math operations`
 
 
@@ -74,10 +74,10 @@ The level logic is still spread out too much.  You can fix that.<br>
 http://scratch.mit.edu/projects/19073212
 
 
-####10. future suggestions: 
+####10. Suggestions for you to work on: 
 - add in platforms to jump on
 - add in coin generation better than 'random' (patterns like lines or arcs)
-- add in a 'slow the scrolling down'
+- add in a prize to 'slow the scrolling down'
 - add in the ability to move forward and back a bit
 
 ##Feedback: 
