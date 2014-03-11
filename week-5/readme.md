@@ -63,13 +63,14 @@ roll up-hill without having to jump.
 
 ####8. Improve the score system
 That orange box is ugly.  We can do better<br>
+We need to learn about the 'mod' operator to find 'remainders'
 http://scratch.mit.edu/projects/19060278
 `Topic:math operations`
 
 
 ####9. Refactoring
 That score logic started to get spread out too much.  I fixed that.<br>
-The level logic is still spread out too much.  Fix that.<br>
+The level logic is still spread out too much.  You can fix that.<br>
 http://scratch.mit.edu/projects/19073212
 
 
