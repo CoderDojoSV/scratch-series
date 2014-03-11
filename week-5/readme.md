@@ -36,9 +36,9 @@ I added in "Levels" so the game got harder.<br>
 Health can keep the game going longer, because it's now harder<br>
 http://scratch.mit.edu/projects/18734141
 
-|Coding time!||
-|--|--|
-|5 minute challenge||What would you do to finish up 'Game Over'|
+Coding time!| |
+--|--
+5 minute challenge|What would you do to finish up 'Game Over'
 
 ####6. St. Patricks Day<br>
 Make the art more St Patricks Day-like.<br>
