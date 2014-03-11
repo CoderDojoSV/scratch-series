@@ -1,26 +1,27 @@
 CoderDojo Scratch Series week 5
 ========================
 
-##Ice Breaker: Dogde 'Em! <br> https://github.com/CoderDojoSV/scratch-series/blob/master/week-5/DodgeEm.pdf
+##Ice Breaker: Dogde 'Em
+https://github.com/CoderDojoSV/scratch-series/blob/master/week-5/DodgeEm.pdf
 
 #Tonight
 We'll continue development of last week's project of a platform game. <br>
 
-##Where we got to
-We made it through Steps 1-3, so I will only mention recent changes in this readme.<br>	
+##Where we got to last week
+We made it through Steps 1-4, so I will only mention recent changes in this readme.<br>	
 You can refer to last week's at https://github.com/CoderDojoSV/scratch-series/blob/master/week-4/readme.md
 
 What did we do last week?<br>
-####1. an interesting background.  <br>
+####1. Made an interesting background.  <br>
 I am changing it to something more reminiscent of <b>St Patrick's Day</b>
 
-####2. A physics engine including ground and gravity.<br>
+####2. Used a physics engine including ground and gravity.<br>
 We looked at my gravity system, and later tonight, I'll show someone else's with more features.
 
-####3. Add in movement keys <br>
+####3. Added in movement keys.<br>
 Some kids added right/left keys.  Some might want to change the way up arrow boosts.
 
-####4. You win a Prize 
+####4. Collected fabulous Prizes.<br>
 Add in things to collide with.  Coins, for one.<br> http://scratch.mit.edu/projects/18684721<br>
 
 ##Where we're going
@@ -36,9 +37,9 @@ I added in "Levels" so the game got harder.<br>
 Health can keep the game going longer, because it's now harder<br>
 http://scratch.mit.edu/projects/18734141
 
-Coding time!| |
---|--
-5 minute challenge|What would you do to finish up 'Game Over'
+|Coding|time|
+|---|---|
+|What would you do to finish up 'Game Over'|5 minute challenge!
 
 ####6. St. Patricks Day<br>
 Make the art more St Patricks Day-like.<br>
@@ -48,12 +49,12 @@ http://scratch.mit.edu/projects/19057264<br>
 `Topic: sound tools.  play, import, edit.`
 
 |Challenge|:Level|
-|--|--|
+|---|---|
 |Change the star to play Twinkle Twinkle Little Star (CCGGAAG)|Easy|
 |Add in an obstacle to avoid.  <br>https://www.google.com/search?q=clipart+bomb |Medium|
 |Add in a prize that slows the game down|Medium|
 
-####7. A better way to make a platform.
+####7. A better way to make a platform engine
 http://scratch.mit.edu/projects/19015667<br>
 This very readable project implements the ability to<br>
 roll up-hill without having to jump.
