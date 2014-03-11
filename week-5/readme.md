@@ -37,7 +37,7 @@ Health can keep the game going longer, because it's now harder<br>
 http://scratch.mit.edu/projects/18734141
 
 |Coding time!||
-|--|
+|--|--|
 |5 minute challenge||What would you do to finish up 'Game Over'|
 
 ####6. St. Patricks Day<br>
@@ -48,7 +48,7 @@ http://scratch.mit.edu/projects/19057264<br>
 `Topic: sound tools.  play, import, edit.`
 
 |Challenge|:Level|
-|-|
+|--|--|
 |Change the star to play Twinkle Twinkle Little Star (CCGGAAG)|Easy|
 |Add in an obstacle to avoid.  <br>https://www.google.com/search?q=clipart+bomb |Medium|
 |Add in a prize that slows the game down|Medium|
