@@ -27,6 +27,7 @@ Add in things to collide with.  Coins, for one.<br> http://scratch.mit.edu/proje
 ##Where we're going
 We just started with prizes last week, and we'll add more to the game now<br>
 
+`Topic: Quick refresher on graphic files`
 `Topic: 3d art: Want to know how I made the coin?`
  
 ###5. More Prizes, More Levels
@@ -37,18 +38,18 @@ I added in "Levels" so the game got harder.<br>
 Health can keep the game going longer, because it's now harder<br>
 http://scratch.mit.edu/projects/18734141
 
-|Coding|time|
+|Coding task|reserved time|
 |---|---|
 |What would you do to finish up 'Game Over'|5 minute challenge!
 
-####6. St. Patricks Day<br>
+####6. St. Patrick's Day<br>
 Make the art more St Patricks Day-like.<br>
 A working Health system + game over is implemented in
 http://scratch.mit.edu/projects/19057264<br>
 
 `Topic: sound tools.  play, import, edit.`
 
-|Challenge|:Level|
+|Coding Challenge|Difficulty|
 |---|---|
 |Change the star to play Twinkle Twinkle Little Star (CCGGAAG)|Easy|
 |Add in an obstacle to avoid.  <br>https://www.google.com/search?q=clipart+bomb |Medium|
@@ -58,6 +59,7 @@ http://scratch.mit.edu/projects/19057264<br>
 http://scratch.mit.edu/projects/19015667<br>
 This very readable project implements the ability to<br>
 roll up-hill without having to jump.
+`Topic: look in [the project](http://scratch.mit.edu/projects/19015667)`
 
 ####8. Improve the score system
 That orange box is ugly.  We can do better<br>
