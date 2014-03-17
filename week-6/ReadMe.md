@@ -46,7 +46,9 @@ http://codepen.io/jimwhitfield/details/Imbkx/
 #Follow-on offerings
 On Scratch.mit.edu, I'm JamWave.  I'll reply to comments you leave on my profile<br>
 http://scratch.mit.edu/users/jamwave/
+If you add a project to CoderDojoSV sharing, I'll take a look at it.<br>
+http://scratch.mit.edu/studios/353977/<br>
 
-Maybe "Office hours" via Google Helpout (maybe next week Tuesday at 7pm). If I do, look for a comment on my profile and on my Google+ account.<br>
+Maybe "Office hours" via Google Helpout. (I'll aim for next week Tuesday at 7pm). If I do, look for a comment on my Scratch profile.  It's an interesting idea, but we don't know if it will work out.<br>
 
 
