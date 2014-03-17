@@ -38,13 +38,18 @@ demo<br>
 
 #A plug for Web development classes
 If you're feeling like you've had enough 'Scratch' lessons, consider Web Development!
+Example: http://codepen.io/jimwhitfield/details/Imbkx/ <br>
 #### HTML - text and structure
 #### CSS - appearance
-#### Javascript - like 'blocks' in Scratch, but usually with typing
-http://codepen.io/jimwhitfield/details/Imbkx/
+#### JavaScript - like 'blocks' in Scratch, but usually with typing<br>
+
+Khan Academy has great resources for learning JavaScript (and the developer volunteers for CoderDojoSV)
 
 #Follow-on offerings
-On Scratch.mit.edu, I'm JamWave.  I'll reply to comments you leave on my profile<br>
+The Spring class line-up is not settled yet.  It's likely to be a 4 week session.  
+Scratch isn't currently planned.  Web development and Python are very likely.<br>
+
+On Scratch.mit.edu, I'm jamwave.  I'll reply to comments you leave on my profile<br>
 http://scratch.mit.edu/users/jamwave/
 If you add a project to CoderDojoSV sharing, I'll take a look at it.<br>
 http://scratch.mit.edu/studios/353977/<br>
